@@ -1,0 +1,17 @@
+//download LTS version
+https://nodejs.org
+//Installez le CLI d'Angular
+npm i -g @angular/cli
+ng v
+//creer app
+ng new snapface --style=scss --skip-tests=true
+//naviguer vers le repertoire avant
+cd snapface
+//executer
+ng serve --o
+//open on browser
+http://localhost:4200
+//generer une componenet(composant)
+ng generate component face-snap
+
+
