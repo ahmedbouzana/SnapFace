@@ -14,7 +14,6 @@ import { LandingPagesModule } from "./landing-pages/landing-pages.module";
     BrowserModule,
     AppRoutingModule,
     CoreModule,
-    FaceSnapsModule,
     LandingPagesModule
   ],
   bootstrap: [AppComponent]
